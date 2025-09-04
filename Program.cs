@@ -5,9 +5,8 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
-
+//TEST
 
 app.MapOpenApi();
 
 app.Run();
-
